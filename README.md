@@ -64,3 +64,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # laravel-mailing-test
 # laravel-mailing-test
 # laravel-mailing-test
+# laravel_malling_test_
